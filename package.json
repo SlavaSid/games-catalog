@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "/", 
+  "homepage": "https://slavasid.github.io/games-catalog/", 
   "scripts": {
     "server": "json-server -w db.json -p 3000",
     "dev": "vite",
